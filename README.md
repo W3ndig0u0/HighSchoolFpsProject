@@ -4,7 +4,7 @@ A fast-paced **First-Person Shooter (FPS)** built in Unity. This project focuses
 
 ## 🎮 Play the Build
 Check out the live version here:
-**[Play on itch.io (yep2)](https://w3ndig0u0.itch.io)** 
+**[Play on itch.io](https://w3ndig0u0.itch.io/yep2)** 
 *(Note: Link updated to reflect your itch profile)*
 
 ## ✨ Features
